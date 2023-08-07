@@ -1,3 +1,0 @@
-Welcome to the Bible Quizzes. It is a religious quiz program that contains different types of questions for the Old and New Testaments, with a point set for each time it is played. Each question has two points. If you choose all the correct answers, you get the highest point achieved. If you fall into a wrong question, you must try again.
-========================================================================================
-أهلا بك في مسابقات الكتاب المقدس إنه برنامج مسابقات دينية يحتوي على أنواع مختلفة من الأسئلة للعهد القديم والجديد مع تحديد نقطة لكل مرة يتم اللعب فيها فكل سؤال له نقطتان وإذا اخترتً كل الإجابات الصحيحة تحصل على أعلى نقطة تم تحقيقها وإذا وقعت في سؤال خاطئ فعليك المحاولة مرة أخرى
